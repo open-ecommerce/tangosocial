@@ -1,0 +1,1630 @@
+<!doctype html>
+<html prefix="og: http://ogp.me/ns#" xml:lang="en-gb" lang="en-gb" >
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="tango, class, classes, dance, dancing floor, salsa, milonga, lyrics, instructor, argentino, argeninean, london, uk community" />
+  <meta name="description" content="Social community about tango, classes, milongas, venues, events, forum, dance." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Tango London Classes Teachers Milongas Argentine</title>
+  <link href="/templates/jf_social/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.tango-social.com/templates/jf_social/js/jf_pirobox/css_pirobox/style_8/style.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/grid-responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jf_social/css/grid-responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jf_social/css-compiled/master.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jf_social/css-compiled/mediaqueries.css" type="text/css" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Asap" type="text/css" />
+  <link rel="stylesheet" href="/templates/jf_social/css/jftemplate.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jf_social/css/jf-typo.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jf_social/css/jf-k2.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jf_social/css/jf-rtl.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jf_social/css/jf-custom.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jf_social/css-compiled/fusionmenu.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.tango-social.com/modules/mod_oe_latestmembers/tmpl/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_kunenalatest/tmpl/css/kunenalatest.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_acymailing/css/module_default.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.tango-social.com/modules/mod_news_pro_gk4/interface/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_jevents/views/tangoiconic/assets/css/modstyle.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.tango-social.com/components/com_community/templates/jf_social_js_2.8/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.tango-social.com/components/com_community/assets/window.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_hs_users/asset/css/asset.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.tango-social.com/modules/mod_oelogin/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.tango-social.com/modules/mod_djimageslider/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.tango-social.com/components/com_community/assets/imgareaselect/css/imgareaselect-avatar.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.tango-social.com/components/com_community/templates/jf_social_js_2.8/css/style.jf_social_mjl.css" type="text/css" />
+  <style type="text/css">
+a{color:#dd3732 ;}.button,.readon,.readmore,button.validate,#member-profile a,#member-registration a,.formelm-buttons button,.btn-primary{border-color:#911c18;}.jf-portfolio-item .jf-portfolio-title-border{background:#FF3838}#jf-login .jf-login-content .jf-login-authorization-button{background:#F53838}.jf_typo_gallery li a .mask .mask-content .border{background:#FA2020}.jf-blog-item-author .author a,.jf-blog-item-category div.category a{color:#FD2E2E}.jf-blog-item-author a:hover,.jf-blog-item-category div.category a:hover{color:#FD2E2E;text-shadow:0 0 5px #FD2E2E}.jf-portfolio-item-readmore a{color:#FD2E2E}.jf-portfolio-item-readmore a:hover{color:#FD2E2E;text-shadow:0 0 5px #FD2E2E}.jf-k2-item-author .catItemAuthor a,.jf-k2-item-category div.jf-k2-catItemCategory a{color:#FD2E2E}.jf-k2-item-author a:hover{color:#FD2E2E;text-shadow:0 0 5px #FD2E2E}div.subCategory h2 a:hover{color:#CF0000}.jf_typo_accord.style4 .jf_typo_accord_trigger:hover{background-color:#CF0000}.jf_typo_toggle.style4 .jf_typo_toggle_trigger:hover{background-color:#CF0000}.jf-recent-projects .jf-recent-projects-viewall a:hover{background:#E21818}#jf-login .jf-login-greeting{background-color:#E21818;background-image:-webkit-gradient(linear,left top,left bottom,from(#E21818),to(#D80C0C));background-image:-webkit-linear-gradient(top,#E21818,#D80C0C);background-image:-moz-linear-gradient(top,#E21818,#D80C0C);background-image:-ms-linear-gradient(top,#E21818,#D80C0C);background-image:-o-linear-gradient(top,#E21818,#D80C0C);background-image:linear-gradient(top,#E21818,#D80C0C);border:1px solid #BB0505}#rt-footer ul.menu li a,#rt-footer ul.menu li span{color:#999999;}#rt-footer ul.menu li a:hover,#rt-footer ul.menu li span:hover{color:#aaaaaa;}.quovolve-box ul.quovolve{color:#888888;}#jf_recent_tweets #twitter_update_list li{color:#888888;}#jf_recent_tweets #twitter_update_list li a{color:#999999;}#jf_recent_tweets #twitter_update_list li a:hover{color:#aaaaaa;}#rt-copyright .rt-container .rt-block{color:#888888;}#rt-copyright .rt-container .rt-block:hover{color:#999999;}#Kunena #jf_ku_header #ktab li.active a,#Kunena #jf_ku_header #ktab li:hover a,#Kunena #kpost-buttons .kbutton[name="ksubmit"],#Kunena #kpost-buttons .kbutton[name="ksubmit"]:hover,#Kunena .kattachment .kbutton,#Kunena .kattachment .kbutton:hover,#Kunena #kforumsearch input[type="submit"],#Kunena #kforumsearch input[type="submit"]:hover,#Kunena form#jumpto input.kbutton,#Kunena td.krowmoderation input.kbutton,#Kunena form#jumpto input.kbutton:hover,#jf_ku_login .jf_ku_login_content .jf_ku_login_authorization_button{background-color:#da5b5a!important}#Kunena #jf_kunena_login #jf_ku_login .jf_ku_login_loggedcont_loader table tr td .section2 a,#Kunena #jf_kunena_login #jf_ku_login .jf_ku_login_loggedcont_loader table tr td .section2 a:hover,#Kunena #jf_ku_header #ktab a span,#Kunena a:link,#Kunena a:hover,#Kunena a:visited,#Kunena a:active,#Kunena a:focus,#Kunena .kforum-pathway .path-element-first a,#Kunena .kforum-pathway .path-element a,#Kunena .jf_ku_modal .moduletable .menu li ul a,.jf_ku_modal .moduletable .menu li ul span{color:#da5b5a!important}#Kunena .kpagination span,#Kunena .kpagination a{border-color:#da5b5a;background-color:#da5b5a}#Kunena #kpost-buttons .kbutton[name="cancel"],#Kunena #kpost-buttons .kbutton[name="cancel"]:hover,#Kunena #kforumsearch input[type="reset"],#Kunena #kforumsearch input[type="reset"]:hover,#Kunena #kprofile .jf_ku_prof_attachment .kbutton,#Kunena #kprofile #kaddban .kbutton{background-color:#222222}#jf_ku_mobile_menu{background-color:#da5b5a;background-image:-webkit-gradient(linear,left top,left bottom,from(#da5b5a),to(#b60202));background-image:-webkit-linear-gradient(top,#da5b5a,#b60202);background-image:-moz-linear-gradient(top,#da5b5a,#b60202);background-image:-ms-linear-gradient(top,#da5b5a,#b60202);background-image:-o-linear-gradient(top,#da5b5a,#b60202);background-image:linear-gradient(top,#da5b5a,#b60202)}.piro_overlay {background:#000000!important}#rt-menu ul.menu li a,.menutop li.root>.item,.menu-type-splitmenu .menutop li .item,.menutop ul li>.item,#jf-preloader #jf-progress,#jf-logomodalcontent .jf-logomenu-title,#jf-login .jf-login-content #form-login-username #modlgn-username,#jf-login .jf-login-content #form-login-password #modlgn-passwd,.jf-login-title,#jf-login .jf-login-content #form-login-remember,#jf-login .jf-login-content .jf-login-authorization-button,#jf-login .jf-login-content .jf-login-forgot a,#jf-login .jf-login-content .jf-login-register a,#jf-login .jf-login-content .logout-button .button,#jf-login .jf-login-content .login-greeting,#rt-breadcrumbs .breadcrumbs a,#rt-breadcrumbs .breadcrumbs span,#jf-search .jf-search-content form input.button,#jf-search .jf-search-content #mod-search-searchword,#jf-login .jf-login-greeting .login-greeting,#jf-login .jf-login-loggedcont.s-joomla-v .logout-button .button,#jf-login .jf-login-content .jf-login-activation a,#jf-login .jf-login-loggedcont.s-jf-js-login-v .jf-login-loggedcont-loader table,#jf-login .jf-login-loggedcont.s-jf-js-login-v .logout .button,.default-tipsy-inner,.jf-flexslider,#jf-welcome,.jf-recent-projects .jf-recent-projects-title,.jf-recent-projects .jf-recent-projects-viewall,.jf-portfolio-item,.jf-showcase-mod,#searchForm,#searchForm .word input,#searchForm select,.button,.readon,.readmore,button.validate,#member-profile a,#member-registration a,.formelm-buttons button,.btn-primary,.component-content .search-results .result-title,.component-content .search-results .result-category,.component-content .pagination,.component-content .login,.component-content .login-fields #username,.login-fields #password,.component-content .login+div ul li a,#login-form a,.component-content .profile,.component-content .profile-edit,.component-content .profile-edit input,.component-content .profile-edit select,.component-content #member-registration,#member-registration input,.component-content .remind,.component-content .reset,.jf-blog-item-image-block,.component-content .item-page .pagenav li,.category-list,.category-list select,ul.menu li a,ul.menu li .item,ul.menu li .separator,#login-form,#login-form label,#login-form input,.module-content .search #mod-search-searchword,.component-content .finder #search-form,.component-content .finder #search-form .inputbox,#search-query-explained,.component-content .contact,.jf_contact_mod,#xmap,.quovolve-box ul li cite,.jf-our-friends,.camera_caption>div,.jf-k2-item-date,.jf-k2-item-author,.jf-k2-item-category,.jf-k2-item-views,.itemRatingLog,div.jf-k2-ItemHeader .jf-k2-ItemTitle,div.jf-k2-ItemReadMore a,div.jf-k2-ItemCommentsLink a,div.k2Pagination,.jf-k2-TagsBlock,.jf-k2-userBlock,div.itemListSubCategories h3,div.subCategory .subCategoryMore,div.itemToolbar,div.itemContentFooter,.jf-k2-socialbtn-mask-txt,div.itemAuthorLatest,div.itemRelated,div.itemNavigation,div.itemComments,div.itemCommentsForm form .inputbox,div.itemCommentsForm form input#submitCommentButton,div.itemBackToTop a,div.k2TagCloudBlock a,.nspArt h4.nspHeader a,.nspArt p.nspInfo,.nspArt .readon,div.k2SearchBlock form input.inputbox,div.k2SearchBlock div.k2LiveSearchResults,div.k2LoginBlock,div.k2LoginBlock fieldset.input p input,div.k2LoginBlock fieldset.input input.button,div.k2UserBlock,div.k2UserBlock form input.ubLogout,.jf_typo_title,h1,h2,h3,h4,h5,h6,.jf_typo_toggle .jf_typo_toggle_trigger,.jf_typo_dropcap_style1,.jf_typo_dropcap_style2,.jf_typo_dropcap_style3,.jf_typo_dropcap_style4,.jf_typo_button,.jf_typo_simple_tabs ul.tabs li a,.jf_typo_accord_trigger,table.jf_typo_table thead tr th,#jf-pricing-table,.jf_typo_gallery li a .mask .mask-content .title,.jf-info-header,#jf_portfolio_filter,#jf_portfolio_items{font-family:'Asap','Helvetica',arial,serif!important}a{color:#dd3732 ;}.button,.readon,.readmore,button.validate,#member-profile a,#member-registration a,.formelm-buttons button,.btn-primary{border-color:#911c18;}.jf-portfolio-item .jf-portfolio-title-border{background:#FF3838}#jf-login .jf-login-content .jf-login-authorization-button{background:#F53838}.jf_typo_gallery li a .mask .mask-content .border{background:#FA2020}.jf-blog-item-author .author a,.jf-blog-item-category div.category a{color:#FD2E2E}.jf-blog-item-author a:hover,.jf-blog-item-category div.category a:hover{color:#FD2E2E;text-shadow:0 0 5px #FD2E2E}.jf-portfolio-item-readmore a{color:#FD2E2E}.jf-portfolio-item-readmore a:hover{color:#FD2E2E;text-shadow:0 0 5px #FD2E2E}.jf-k2-item-author .catItemAuthor a,.jf-k2-item-category div.jf-k2-catItemCategory a{color:#FD2E2E}.jf-k2-item-author a:hover{color:#FD2E2E;text-shadow:0 0 5px #FD2E2E}div.subCategory h2 a:hover{color:#CF0000}.jf_typo_accord.style4 .jf_typo_accord_trigger:hover{background-color:#CF0000}.jf_typo_toggle.style4 .jf_typo_toggle_trigger:hover{background-color:#CF0000}.jf-recent-projects .jf-recent-projects-viewall a:hover{background:#E21818}#jf-login .jf-login-greeting{background-color:#E21818;background-image:-webkit-gradient(linear,left top,left bottom,from(#E21818),to(#D80C0C));background-image:-webkit-linear-gradient(top,#E21818,#D80C0C);background-image:-moz-linear-gradient(top,#E21818,#D80C0C);background-image:-ms-linear-gradient(top,#E21818,#D80C0C);background-image:-o-linear-gradient(top,#E21818,#D80C0C);background-image:linear-gradient(top,#E21818,#D80C0C);border:1px solid #BB0505}#rt-footer ul.menu li a,#rt-footer ul.menu li span{color:#999999;}#rt-footer ul.menu li a:hover,#rt-footer ul.menu li span:hover{color:#aaaaaa;}.quovolve-box ul.quovolve{color:#888888;}#jf_recent_tweets #twitter_update_list li{color:#888888;}#jf_recent_tweets #twitter_update_list li a{color:#999999;}#jf_recent_tweets #twitter_update_list li a:hover{color:#aaaaaa;}#rt-copyright .rt-container .rt-block{color:#888888;}#rt-copyright .rt-container .rt-block:hover{color:#999999;}#Kunena #jf_ku_header #ktab li.active a,#Kunena #jf_ku_header #ktab li:hover a,#Kunena #kpost-buttons .kbutton[name="ksubmit"],#Kunena #kpost-buttons .kbutton[name="ksubmit"]:hover,#Kunena .kattachment .kbutton,#Kunena .kattachment .kbutton:hover,#Kunena #kforumsearch input[type="submit"],#Kunena #kforumsearch input[type="submit"]:hover,#Kunena form#jumpto input.kbutton,#Kunena td.krowmoderation input.kbutton,#Kunena form#jumpto input.kbutton:hover,#jf_ku_login .jf_ku_login_content .jf_ku_login_authorization_button{background-color:#da5b5a!important}#Kunena #jf_kunena_login #jf_ku_login .jf_ku_login_loggedcont_loader table tr td .section2 a,#Kunena #jf_kunena_login #jf_ku_login .jf_ku_login_loggedcont_loader table tr td .section2 a:hover,#Kunena #jf_ku_header #ktab a span,#Kunena a:link,#Kunena a:hover,#Kunena a:visited,#Kunena a:active,#Kunena a:focus,#Kunena .kforum-pathway .path-element-first a,#Kunena .kforum-pathway .path-element a,#Kunena .jf_ku_modal .moduletable .menu li ul a,.jf_ku_modal .moduletable .menu li ul span{color:#da5b5a!important}#Kunena .kpagination span,#Kunena .kpagination a{border-color:#da5b5a;background-color:#da5b5a}#Kunena #kpost-buttons .kbutton[name="cancel"],#Kunena #kpost-buttons .kbutton[name="cancel"]:hover,#Kunena #kforumsearch input[type="reset"],#Kunena #kforumsearch input[type="reset"]:hover,#Kunena #kprofile .jf_ku_prof_attachment .kbutton,#Kunena #kprofile #kaddban .kbutton{background-color:#222222}#jf_ku_mobile_menu{background-color:#da5b5a;background-image:-webkit-gradient(linear,left top,left bottom,from(#da5b5a),to(#b60202));background-image:-webkit-linear-gradient(top,#da5b5a,#b60202);background-image:-moz-linear-gradient(top,#da5b5a,#b60202);background-image:-ms-linear-gradient(top,#da5b5a,#b60202);background-image:-o-linear-gradient(top,#da5b5a,#b60202);background-image:linear-gradient(top,#da5b5a,#b60202)}.piro_overlay {background:#000000!important}#rt-menu ul.menu li a,.menutop li.root>.item,.menu-type-splitmenu .menutop li .item,.menutop ul li>.item,#jf-preloader #jf-progress,#jf-logomodalcontent .jf-logomenu-title,#jf-login .jf-login-content #form-login-username #modlgn-username,#jf-login .jf-login-content #form-login-password #modlgn-passwd,.jf-login-title,#jf-login .jf-login-content #form-login-remember,#jf-login .jf-login-content .jf-login-authorization-button,#jf-login .jf-login-content .jf-login-forgot a,#jf-login .jf-login-content .jf-login-register a,#jf-login .jf-login-content .logout-button .button,#jf-login .jf-login-content .login-greeting,#rt-breadcrumbs .breadcrumbs a,#rt-breadcrumbs .breadcrumbs span,#jf-search .jf-search-content form input.button,#jf-search .jf-search-content #mod-search-searchword,#jf-login .jf-login-greeting .login-greeting,#jf-login .jf-login-loggedcont.s-joomla-v .logout-button .button,#jf-login .jf-login-content .jf-login-activation a,#jf-login .jf-login-loggedcont.s-jf-js-login-v .jf-login-loggedcont-loader table,#jf-login .jf-login-loggedcont.s-jf-js-login-v .logout .button,.default-tipsy-inner,.jf-flexslider,#jf-welcome,.jf-recent-projects .jf-recent-projects-title,.jf-recent-projects .jf-recent-projects-viewall,.jf-portfolio-item,.jf-showcase-mod,#searchForm,#searchForm .word input,#searchForm select,.button,.readon,.readmore,button.validate,#member-profile a,#member-registration a,.formelm-buttons button,.btn-primary,.component-content .search-results .result-title,.component-content .search-results .result-category,.component-content .pagination,.component-content .login,.component-content .login-fields #username,.login-fields #password,.component-content .login+div ul li a,#login-form a,.component-content .profile,.component-content .profile-edit,.component-content .profile-edit input,.component-content .profile-edit select,.component-content #member-registration,#member-registration input,.component-content .remind,.component-content .reset,.jf-blog-item-image-block,.component-content .item-page .pagenav li,.category-list,.category-list select,ul.menu li a,ul.menu li .item,ul.menu li .separator,#login-form,#login-form label,#login-form input,.module-content .search #mod-search-searchword,.component-content .finder #search-form,.component-content .finder #search-form .inputbox,#search-query-explained,.component-content .contact,.jf_contact_mod,#xmap,.quovolve-box ul li cite,.jf-our-friends,.camera_caption>div,.jf-k2-item-date,.jf-k2-item-author,.jf-k2-item-category,.jf-k2-item-views,.itemRatingLog,div.jf-k2-ItemHeader .jf-k2-ItemTitle,div.jf-k2-ItemReadMore a,div.jf-k2-ItemCommentsLink a,div.k2Pagination,.jf-k2-TagsBlock,.jf-k2-userBlock,div.itemListSubCategories h3,div.subCategory .subCategoryMore,div.itemToolbar,div.itemContentFooter,.jf-k2-socialbtn-mask-txt,div.itemAuthorLatest,div.itemRelated,div.itemNavigation,div.itemComments,div.itemCommentsForm form .inputbox,div.itemCommentsForm form input#submitCommentButton,div.itemBackToTop a,div.k2TagCloudBlock a,.nspArt h4.nspHeader a,.nspArt p.nspInfo,.nspArt .readon,div.k2SearchBlock form input.inputbox,div.k2SearchBlock div.k2LiveSearchResults,div.k2LoginBlock,div.k2LoginBlock fieldset.input p input,div.k2LoginBlock fieldset.input input.button,div.k2UserBlock,div.k2UserBlock form input.ubLogout,.jf_typo_title,h1,h2,h3,h4,h5,h6,.jf_typo_toggle .jf_typo_toggle_trigger,.jf_typo_dropcap_style1,.jf_typo_dropcap_style2,.jf_typo_dropcap_style3,.jf_typo_dropcap_style4,.jf_typo_button,.jf_typo_simple_tabs ul.tabs li a,.jf_typo_accord_trigger,table.jf_typo_table thead tr th,#jf-pricing-table,.jf_typo_gallery li a .mask .mask-content .title,.jf-info-header,#jf_portfolio_filter,#jf_portfolio_items{font-family:'Asap','Helvetica',arial,serif!important}
+		/* Styles for DJ Image Slider with module id 119 */
+		#djslider-loader119 {
+			margin: 0 auto;
+			position: relative;
+		}
+		#djslider119 {
+			margin: 0 auto;
+			position: relative;
+			height: 400px; 
+			width: 800px;
+			max-width: 800px;
+		}
+		#slider-container119 {
+			position: absolute;
+			overflow:hidden;
+			left: 0; 
+			top: 0;
+			height: 100%;
+			width: 100%;
+		}
+		#djslider119 ul#slider119 {
+			margin: 0 !important;
+			padding: 0 !important;
+			border: 0 !important;
+		}
+		#djslider119 ul#slider119 li {
+			list-style: none outside !important;
+			float: left;
+			margin: 0 !important;
+			border: 0 !important;
+			padding: 0 0px 0px 0 !important;
+			position: relative;
+			height: 400px;
+			width: 800px;
+			background: none;
+			overflow: hidden;
+		}
+		#slider119 li img {
+			width: 100%;
+			height: auto;
+			border: 0 !important;
+			margin: 0 !important;
+		}
+		#slider119 li a img, #slider119 li a:hover img {
+			border: 0 !important;
+		}
+		
+		/* Slide description area */
+		#slider119 .slide-desc {
+			position: absolute;
+			bottom: 0%;
+			left: 0%;
+			width: 100%;
+		}
+		#slider119 .slide-desc-in {
+			position: relative;
+			margin: 0 0px 0px 0 !important;
+		}
+		#slider119 .slide-desc-bg {
+			position:absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+		#slider119 .slide-desc-text {
+			position: relative;
+		}
+		#slider119 .slide-desc-text h3 {
+			display: block !important;
+		}
+		
+		/* Navigation buttons */
+		#navigation119 {
+			position: relative;
+			top: 7.5%; 
+			margin: 0 5px;
+			text-align: center !important;
+		}
+		
+		#prev119 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			left: 0;
+		}
+		#next119 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			right: 0;
+		}
+		
+		#play119, 
+		#pause119 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			left: 50%;
+		}
+		
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.6&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/libraries/gantry/js/gantry-totop.js" type="text/javascript"></script>
+  <script src="/templates/jf_social/js/pirobox_jquery_ui.min.js" type="text/javascript"></script>
+  <script src="/templates/jf_social/js/pirobox_extended-1.3.js" type="text/javascript"></script>
+  <script src="/templates/jf_social/js/rokmediaqueries.js" type="text/javascript"></script>
+  <script src="/templates/jf_social/js/load-transition.js" type="text/javascript"></script>
+  <script src="/modules/mod_roknavmenu/themes/fusion/js/fusion.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/media/com_acymailing/js/acymailing_module.js?v=451" type="text/javascript"></script>
+  <script src="http://www.tango-social.com/modules/mod_news_pro_gk4/interface/scripts/engine.js" type="text/javascript"></script>
+  <script src="http://www.tango-social.com/components/com_community/assets/joms.jquery-1.8.1.min.js" type="text/javascript"></script>
+  <script src="http://www.tango-social.com/components/com_community/assets/script-1.2.min.js" type="text/javascript"></script>
+  <script src="http://www.tango-social.com/components/com_community/assets/window-1.0.min.js" type="text/javascript"></script>
+  <script src="/components/com_hs_users/asset/js/formtoken.js" type="text/javascript"></script>
+  <script src="/modules/mod_djimageslider/assets/powertools-1.2.0.js" type="text/javascript"></script>
+  <script src="/modules/mod_djimageslider/assets/slider.js" type="text/javascript"></script>
+  <script src="http://www.tango-social.com/components/com_community/assets/ajaxfileupload.pack.js" type="text/javascript"></script>
+  <script src="http://www.tango-social.com/components/com_community/assets/imgareaselect/scripts/jquery.imgareaselect.min.js" type="text/javascript"></script>
+  <script src="http://www.tango-social.com/components/com_community/templates/jf_social_js_2.8/js/jf_social_mjl.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});jQuery(document).ready(function($){$.pirobox_ext({attribute:"rel",piro_speed:700,bg_alpha:0.7,resize:true,zoom_mode:true,move_mode:"mousemove",piro_scroll:true,share:true})});            window.addEvent('domready', function() {
+                new Fusion('ul.menutop', {
+                    effect: 'slide and fade',
+                    opacity:  1,
+                    hideDelay:  500,
+                    centered:  0,
+                    tweakInitial: {'x': -10, 'y': -10},
+                    tweakSubsequent: {'x':  0, 'y':  0},
+                    tweakSizes: {'width': 20, 'height': 20},
+                    menuFx: {duration:  300, transition: Fx.Transitions.Circ.easeIn}
+                });
+                });
+            
+
+			window.addEvent('domready', function(){
+				document.getElements('[data-rt-menu-mobile]').addEvent('change', function(){
+					window.location.href = this.value;
+				});
+			});window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});jQuery(document).ready(function($){$.pirobox_ext({attribute:"rel",piro_speed:700,bg_alpha:0.7,resize:true,zoom_mode:true,move_mode:"mousemove",piro_scroll:true,share:true})});            window.addEvent('domready', function() {
+                new Fusion('ul.menutop', {
+                    effect: 'slide and fade',
+                    opacity:  1,
+                    hideDelay:  500,
+                    centered:  0,
+                    tweakInitial: {'x': -10, 'y': -10},
+                    tweakSubsequent: {'x':  0, 'y':  0},
+                    tweakSizes: {'width': 20, 'height': 20},
+                    menuFx: {duration:  300, transition: Fx.Transitions.Circ.easeIn}
+                });
+                });
+            
+
+			window.addEvent('domready', function(){
+				document.getElements('[data-rt-menu-mobile]').addEvent('change', function(){
+					window.location.href = this.value;
+				});
+			});
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});	var acymailing = Array();
+				acymailing['NAMECAPTION'] = 'Name';
+				acymailing['NAME_MISSING'] = 'Please enter your name';
+				acymailing['EMAILCAPTION'] = 'Subscribe to our Newsletter';
+				acymailing['VALID_EMAIL'] = 'Please enter a valid e-mail address';
+				acymailing['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
+				acymailing['CAPTCHA_MISSING'] = 'Please enter the security code displayed in the image';
+				acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
+		function refreshCaptchaModule(){
+		var captchaLink = document.getElementById('captcha_picture_formAcymailing99431').src;myregexp = new RegExp('val-([0-9]+)');
+		valToChange=captchaLink.match(myregexp)[1];
+		document.getElementById('captcha_picture_formAcymailing99431').src = captchaLink.replace(valToChange,valToChange+'0');
+	}window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});jQuery(document).ready(function($){$.pirobox_ext({attribute:"rel",piro_speed:700,bg_alpha:0.7,resize:true,zoom_mode:true,move_mode:"mousemove",piro_scroll:true,share:true})});            window.addEvent('domready', function() {
+                new Fusion('ul.menutop', {
+                    effect: 'slide and fade',
+                    opacity:  1,
+                    hideDelay:  500,
+                    centered:  0,
+                    tweakInitial: {'x': -10, 'y': -10},
+                    tweakSubsequent: {'x':  0, 'y':  0},
+                    tweakSizes: {'width': 20, 'height': 20},
+                    menuFx: {duration:  300, transition: Fx.Transitions.Circ.easeIn}
+                });
+                });
+            
+
+			window.addEvent('domready', function(){
+				document.getElements('[data-rt-menu-mobile]').addEvent('change', function(){
+					window.location.href = this.value;
+				});
+			});window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});jQuery(document).ready(function($){$.pirobox_ext({attribute:"rel",piro_speed:700,bg_alpha:0.7,resize:true,zoom_mode:true,move_mode:"mousemove",piro_scroll:true,share:true})});            window.addEvent('domready', function() {
+                new Fusion('ul.menutop', {
+                    effect: 'slide and fade',
+                    opacity:  1,
+                    hideDelay:  500,
+                    centered:  0,
+                    tweakInitial: {'x': -10, 'y': -10},
+                    tweakSubsequent: {'x':  0, 'y':  0},
+                    tweakSizes: {'width': 20, 'height': 20},
+                    menuFx: {duration:  300, transition: Fx.Transitions.Circ.easeIn}
+                });
+                });
+            
+
+			window.addEvent('domready', function(){
+				document.getElements('[data-rt-menu-mobile]').addEvent('change', function(){
+					window.location.href = this.value;
+				});
+			});
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});	var acymailing = Array();
+				acymailing['NAMECAPTION'] = 'Name';
+				acymailing['NAME_MISSING'] = 'Please enter your name';
+				acymailing['EMAILCAPTION'] = 'Subscribe to our Newsletter';
+				acymailing['VALID_EMAIL'] = 'Please enter a valid e-mail address';
+				acymailing['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
+				acymailing['CAPTCHA_MISSING'] = 'Please enter the security code displayed in the image';
+				acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
+		function refreshCaptchaModule(){
+		var captchaLink = document.getElementById('captcha_picture_formAcymailing34521').src;myregexp = new RegExp('val-([0-9]+)');
+		valToChange=captchaLink.match(myregexp)[1];
+		document.getElementById('captcha_picture_formAcymailing34521').src = captchaLink.replace(valToChange,valToChange+'0');
+	}(function($){ window.addEvent('domready',function(){this.Slider119 = new DJImageSliderModule({id: '119', slider_type: 2, slide_size: 800, visible_slides: 1, show_buttons: 1, show_arrows: 1, preload: 800},{auto: 0, transition: Fx.Transitions.linear, duration: 2000, delay: 5000})}); })(document.id);joms.filters.bind();
+  </script>
+  <script type='text/javascript'>
+				/*<![CDATA[*/
+					var jax_live_site = 'http://www.tango-social.com/index.php';
+					var jax_token_var='c73df806ea0b0112226b56b48fe4d2ee';
+				/*]]>*/
+				</script><script type="text/javascript" src="http://www.tango-social.com/plugins/system/azrul.system/pc_includes/ajax_1.5.pack.js"></script>
+  <script type="text/javascript">
+            /* <![CDATA[ */
+            var s2AjaxUri = "/index.php?option=com_jreviews&format=raw&tmpl=component&lang=en",
+                jreviews = jreviews || {},
+                jrPublicMenu = 115;
+            jreviews.calendar_img = "/components/com_jreviews/jreviews/views/themes/default/theme_images/calendar.gif",
+            jreviews.lang = jreviews.lang || {};
+            jreviews.cms = 2;
+            jreviews.locale = "en_GB";
+            jreviews.jparams = true,
+            jreviews.fb = {};
+            jreviews.comparison = {
+                numberOfListingsPerPage: 3,
+                maxNumberOfListings: 15,
+                compareURL: "/component/jreviews/categories/compare/id:listing_ids/?Itemid="
+            };
+            jreviews.mobi = 0;
+            jreviews.iOS = 0;
+            /* ]]> */
+            </script>
+  <link rel="stylesheet" type="text/css" href="/components/com_jreviews/jreviews/views/themes/default/theme_css/jquery_ui_theme/jquery-ui-1.8.24.custom.css?v=0" />
+  <link rel="stylesheet" type="text/css" href="/templates/jreviews_overrides/views/themes/tangosocial/theme_css/theme.css?v=0" />
+  <link rel="stylesheet" type="text/css" href="/templates/jreviews_overrides/views/themes/tangosocial/theme_css/modules.css?v=0" />
+  <link rel="stylesheet" type="text/css" href="/components/com_jreviews/jreviews/views/themes/default/theme_css/custom_styles_modules.css?v=0" />
+  <link rel="stylesheet" type="text/css" href="/components/com_jreviews/jreviews/views/themes/default/theme_css/custom_styles.css?v=0" />
+  <!--[if lte IE 7]><script type="text/javascript" src="/components/com_jreviews/jreviews/views/js/jreviews.icons.ie7.js"></script><![endif]-->
+  <!--[if lte IE 7]><script type="text/javascript" src="/components/com_jreviews/jreviews/views/js/storage.ie7.min.js"></script><![endif]-->
+  <script type="text/javascript" src="/components/com_s2framework/tmp/cache/core/locale-en_GB.js"></script>
+  <script type="text/javascript" src="/components/com_jreviews/jreviews/views/js/jquery/jquery-1.8.2.min.js?v=0"></script>
+  <script type="text/javascript" src="/components/com_jreviews/jreviews/views/js/jquery/jquery-ui-1.8.24.custom.min.js?v=0"></script>
+  <script type="text/javascript" src="/components/com_jreviews/jreviews/views/js/jquery/i18n/jquery.ui.datepicker-en-GB.js?v=0"></script>
+  <script type="text/javascript" src="/components/com_jreviews/jreviews/views/js/jreviews.js?v=0"></script>
+        <link rel="stylesheet" href="http://www.tango-social.com/templates/jf_social/css/jf_style_red.css" type="text/css" />
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-41680638-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </head>
+    <body  class="logo-type-gantry font-family-asap font-size-is-default menu-type-fusionmenu layout-mode-responsive col12">
+
+
+        <div id="jf-preloader">
+            <div id="jf-indicator"></div>
+            <div id="jf-preloader-logo"></div>
+            <div id="jf-progress"></div>
+        </div>
+
+                                                <header id="rt-top-surround">
+                                                <div id="jf-header">
+                        <div class="rt-container">
+                            <div id="jf-undermenu" class="rt-grid-8 rt-omega">
+        
+
+                                            		<div id="jf-js-login">
+            <div id="jf-js-loginbackout"></div>
+
+
+    
+
+                                </div>	
+                                
+                                                                    <div id="jf-search">
+                                        <a class="jf-search-button jf-tipsy-ne" title="Click to Search">
+                                            <span></span>
+                                        </a>
+                                        <a class="jf-search-button-close jf-tipsy-n" title="Close Search">
+                                            <span></span>
+                                        </a>
+                                        <div class="jf-search-content">
+            		<form action="/" method="post">
+	<div class="search">
+		<input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" /><span class="jf-sample-search-button"><input type="image" value="Search" class="button" src="/templates/jf_social/images/jf/jf-icons/search.png" onclick="this.form.searchword.focus();"/></span>	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="101" />
+	</div>
+</form>
+	
+                                        </div>
+                                    </div>
+        
+                            </div>
+        <div class="rt-grid-12 rt-alpha rt-omega">
+    			<div id="jf-logo">
+    	    	<a id="jf-logo-image" href="http://tango-social.com"></a>
+			</div>
+        
+	<div class="rt-block menu-block">
+		<div class="rt-menubar fusionmenu">
+    <ul class="menutop level1 " >
+                        <li class="item101 active root" >
+                            <a class="orphan item bullet" href="/"  >
+                    <span>
+                                        Home                                                            </span>
+                </a>
+            
+                    </li>
+                                <li class="item174 root" >
+                            <a class="orphan item bullet" href="/london-tango-network.html"  >
+                    <span>
+                                        Tango Network                                                            </span>
+                </a>
+            
+                    </li>
+                                <li class="item272 root" >
+                            <span class="orphan item bullet nolink">
+                    <span>
+                                            |                                                            </span>
+                </span>
+            
+                    </li>
+                                <li class="item215 root" >
+                            <a class="orphan item bullet" href="/tango-london-event-listing.html"  >
+                    <span>
+                                        Events                                                            </span>
+                </a>
+            
+                    </li>
+                                <li class="item273 root" >
+                            <span class="orphan item bullet nolink">
+                    <span>
+                                            |                                                            </span>
+                </span>
+            
+                    </li>
+                                <li class="item115 root" >
+                            <a class="orphan item bullet" href="/tango-london-venues-milongas.html"  >
+                    <span>
+                                        Venues                                                            </span>
+                </a>
+            
+                    </li>
+                                <li class="item275 root" >
+                            <span class="orphan item bullet nolink">
+                    <span>
+                                            |                                                            </span>
+                </span>
+            
+                    </li>
+                                <li class="item270 root" >
+                            <a class="orphan item bullet" href="/london-tango-network/groups/viewmembers?groupid=1"  >
+                    <span>
+                                        Teachers                                                            </span>
+                </a>
+            
+                    </li>
+                                <li class="item276 root" >
+                            <span class="orphan item bullet nolink">
+                    <span>
+                                            |                                                            </span>
+                </span>
+            
+                    </li>
+                                <li class="item213 root" >
+                            <a class="orphan item bullet" href="/forum-tango-london.html"  >
+                    <span>
+                                        Forum                                                            </span>
+                </a>
+            
+                    </li>
+                                <li class="item277 root" >
+                            <span class="orphan item bullet nolink">
+                    <span>
+                                            |                                                            </span>
+                </span>
+            
+                    </li>
+                                <li class="item216 root" >
+                            <a class="orphan item bullet" href="/tango-london-news-blog.html"  >
+                    <span>
+                                        Tango News                                                            </span>
+                </a>
+            
+                    </li>
+                    </ul>
+</div>		<div class="clear"></div>
+	</div>
+	<div class="rt-menu-mobile">
+	<select data-rt-menu-mobile>
+									<option value="/" selected="selected"> Home</option>
+
+																<option value="/london-tango-network.html"> Tango Network</option>
+
+																								<option value="/tango-london-event-listing.html"> Events</option>
+
+																								<option value="/tango-london-venues-milongas.html"> Venues</option>
+
+																								<option value="/london-tango-network/groups/viewmembers?groupid=1"> Teachers</option>
+
+																								<option value="/forum-tango-london.html"> Forum</option>
+
+																								<option value="/tango-london-news-blog.html"> Tango News</option>
+
+										</select>
+</div>
+</div>
+                            <div id="jf-sticky-showmenu"></div>
+                            <div class="clear"></div>
+                            <div id="top-header-pointer"></div>
+                        </div>
+                        <div id="top-shadow-down"></div>
+                    </div>
+
+        
+                    
+                    
+                            </header>
+            
+
+        <div id="jf-component-bg">
+            <div id="jf-component-trans" class="rt-hidden">
+
+
+                
+                                                    
+                                    <div id="rt-showcase">
+                        <div class="rt-showcase-pattern">
+                            <div class="rt-container">
+    <div class="rt-grid-8 rt-alpha rt-omega">
+               <div class="rt-block top-slider hidden-phone">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+<div id="djslider-loader119" class="djslider-loader">
+    <div id="djslider119" class="djslider">
+        <div id="slider-container119" class="slider-container">
+        	<ul id="slider119">
+          		          			<li>
+          					            											<img src="/images/banners/home-top/tango-social-london-classes.jpg" alt="Classes" />
+																									<!-- Slide description area: START -->
+						<div class="slide-desc">
+						  <div class="slide-desc-in">	
+							<div class="slide-desc-bg"></div>
+							<div class="slide-desc-text">
+															<div class="slide-title">
+																			Classes																	</div>
+														
+															<div class="slide-text">
+																			<a href="/events1" target="_self">We keep you updated with the latest classes and tango events.</a>																	</div>
+														
+														<div style="clear: both"></div>
+							</div>
+						  </div>
+						</div>
+						<!-- Slide description area: END -->
+												
+						
+					</li>
+                          			<li>
+          					            											<img src="/images/banners/home-top/tango-social-london-milongas.jpg" alt="Milongas" />
+																									<!-- Slide description area: START -->
+						<div class="slide-desc">
+						  <div class="slide-desc-in">	
+							<div class="slide-desc-bg"></div>
+							<div class="slide-desc-text">
+															<div class="slide-title">
+																			Milongas																	</div>
+														
+															<div class="slide-text">
+																			<a href="/venues" target="_self">Up to date information about the London tango venues; timetables, prices, services and events.</a>
+																	</div>
+														
+														<div style="clear: both"></div>
+							</div>
+						  </div>
+						</div>
+						<!-- Slide description area: END -->
+												
+						
+					</li>
+                          			<li>
+          					            											<img src="/images/banners/home-top/tango-social-london-dancing-partner.jpg" alt="Meet other tango dancers" />
+																									<!-- Slide description area: START -->
+						<div class="slide-desc">
+						  <div class="slide-desc-in">	
+							<div class="slide-desc-bg"></div>
+							<div class="slide-desc-text">
+															<div class="slide-title">
+																			Meet other tango dancers																	</div>
+														
+															<div class="slide-text">
+																			<a href="/london" target="_self">Are you looking for a dancing partner? You are in the right place.</a>																	</div>
+														
+														<div style="clear: both"></div>
+							</div>
+						  </div>
+						</div>
+						<!-- Slide description area: END -->
+												
+						
+					</li>
+                          			<li>
+          					            											<img src="/images/banners/home-top/tango-social-london-how-to-go.jpg" alt="Help to find the venues" />
+																									<!-- Slide description area: START -->
+						<div class="slide-desc">
+						  <div class="slide-desc-in">	
+							<div class="slide-desc-bg"></div>
+							<div class="slide-desc-text">
+															<div class="slide-title">
+																			Help to find the venues																	</div>
+														
+															<div class="slide-text">
+																			<p>We have an easy to folow application that show you how to find the events and venues and never again be late to a class.</p>																	</div>
+														
+														<div style="clear: both"></div>
+							</div>
+						  </div>
+						</div>
+						<!-- Slide description area: END -->
+												
+						
+					</li>
+                          			<li>
+          					            											<img src="/images/banners/home-top/tango-social-london-events.jpg" alt="Tango Festivals Information" />
+																									<!-- Slide description area: START -->
+						<div class="slide-desc">
+						  <div class="slide-desc-in">	
+							<div class="slide-desc-bg"></div>
+							<div class="slide-desc-text">
+															<div class="slide-title">
+																			Tango Festivals Information																	</div>
+														
+															<div class="slide-text">
+																			<a href="/events1" target="_self">You will find information about the tango festivals and events in London.</a>																	</div>
+														
+														<div style="clear: both"></div>
+							</div>
+						  </div>
+						</div>
+						<!-- Slide description area: END -->
+												
+						
+					</li>
+                          			<li>
+          					            											<img src="/images/banners/home-top/tango-social-london-features.jpg" alt="Be part of Tango Social London" />
+																									<!-- Slide description area: START -->
+						<div class="slide-desc">
+						  <div class="slide-desc-in">	
+							<div class="slide-desc-bg"></div>
+							<div class="slide-desc-text">
+															<div class="slide-title">
+																			Be part of Tango Social London																	</div>
+														
+															<div class="slide-text">
+																			<p>If you register for free you will have access to participate in the forum and social page where you can interact with other dancers and teachers passionated about tango like you.</p>																	</div>
+														
+														<div style="clear: both"></div>
+							</div>
+						  </div>
+						</div>
+						<!-- Slide description area: END -->
+												
+						
+					</li>
+                        	</ul>
+        </div>
+                <div id="navigation119" class="navigation-container">
+        	        	<img id="prev119" class="prev-button" src="http://www.tango-social.com//modules/mod_djimageslider/assets/prev.png" alt="Previous" />
+			<img id="next119" class="next-button" src="http://www.tango-social.com//modules/mod_djimageslider/assets/next.png" alt="Next" />
+									<img id="play119" class="play-button" src="http://www.tango-social.com//modules/mod_djimageslider/assets/play.png" alt="Play" />
+			<img id="pause119" class="pause-button" src="http://www.tango-social.com//modules/mod_djimageslider/assets/pause.png" alt="Pause" />
+			        </div>
+                    </div>
+</div>
+	
+<div style="clear: both"></div>	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block welcome hidden-phone">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="customwelcome hidden-phone"  >
+	<div><img src="/images/oe/welcome-to-tango-social-london.png" width="100%" height="100%" alt="welcome-to-tango-social-london" /></div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-4 rt-alpha rt-omega">
+               <div class="rt-block box1 grey registration">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">LOGIN</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		
+<div id="oe-login">
+        <div class="oe-login-content">
+        <form action="/component/users/?task=user.login&amp;Itemid=" method="post" name="form-login" id="form-login" >
+                        <fieldset class="userdata">
+
+                <p id="form-login-username">
+                    <label class="oe-login-username-icon" for="username"><span></span></label>
+                    <input id="modlgn-username" type="text" name="username" class="inputbox"  size="18" placeholder="User Name" />
+                </p>
+                <p id="form-login-password">
+                    <label class="oe-login-password-icon" for="passwd"><span></span></label>
+                    <input id="modlgn-passwd" type="password" name="password" class="inputbox" size="18" placeholder="Password" />
+                </p>
+                                    <p id="form-login-remember">
+                        <label for="remember">Remember Me</label>
+                    <div class="oe-login-checkbox"><input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/></div>
+                    </p>
+                                <input type="submit" name="Submit" class="oe-login-authorization-button" value="Log in" />
+                <input type="hidden" name="option" value="com_users" />
+                <input type="hidden" name="task" value="user.login" />
+                <input type="hidden" name="return" value="" />
+                <input type="hidden" name="c73df806ea0b0112226b56b48fe4d2ee" value="1" />            </fieldset>
+            <div class="clear"></div>
+            <ul class="oe-login-forgot">
+                <li class="first">
+                    <a href="/component/users/?view=reset">
+                        Forgot your password?</a>
+                </li>
+                <li class="last">
+                    <a href="/component/users/?view=remind">
+                        Forgot your username?</a>
+                </li>
+                <div class="clear"></div>
+            </ul>
+            <div class="clear"></div>
+
+            <div id="or-sign">- - - - - - - - OR SIGNIN WITH - - - - - - - -</div>
+            <div class="hs_users_socials">
+                <ul class="hs_social_list">
+
+                    <li class="socials facebook">
+                        <div id="fb-root"></div>
+
+                        <script type="text/javascript">
+                            var count = 1;
+                            window.fbAsyncInit = function() {
+                                FB.init({appId: '511348592255486', status: true, oauth: true, cookie: true, xfbml: true});
+
+                                /* All the events registered */
+                                FB.Event.subscribe('auth.login', function(response) {
+                                    //if( count == 1 )
+                                    //joms.connect.update();
+
+                                    //count++;
+                                });
+                            };
+                            (function() {
+                                var e = document.createElement('script');
+                                e.type = 'text/javascript';
+                                e.src = document.location.protocol +
+                                        '//connect.facebook.net/en_US/all.js';
+                                e.async = true;
+                                document.getElementById('fb-root').appendChild(e);
+                            }());
+                        </script>
+
+
+                        <!-- custom login button -->
+                        <a href="#" onclick="fblogin();
+                                return false;"><img src="/images/oe/tango-social-facebook-login.png"></a>
+
+                        <script>
+                            //your fb login function
+                            function fblogin() {
+                                FB.login(function(response) {
+                                    joms.connect.update();
+                                }, {
+                                    scope: "read_stream,publish_stream,offline_access,email,user_birthday,status_update,user_status",
+                                });
+                            }
+                        </script>                        
+
+                    </li>
+
+
+                    <li class="socials twitter"><a class="hbox hs_token_target" href="/component/hs_users/?task=authentications.authenticatewith&amp;provider=twitter&amp;return=aHR0cDovL3RhbmdvLXNvY2lhbC5jb20v" alt="twitter"><span class="name"></span></a></li><li class="socials google"><a class="hbox hs_token_target" href="/component/hs_users/?task=authentications.authenticatewith&amp;provider=google&amp;return=aHR0cDovL3RhbmdvLXNvY2lhbC5jb20v" alt="google"><span class="name"></span></a></li><li class="socials linkedin"><a class="hbox hs_token_target" href="/component/hs_users/?task=authentications.authenticatewith&amp;provider=linkedin&amp;return=aHR0cDovL3RhbmdvLXNvY2lhbC5jb20v" alt="linkedin"><span class="name"></span></a></li><div id="hs_social_token_form"><input type="hidden" name="c73df806ea0b0112226b56b48fe4d2ee" value="1" /></div>				
+
+
+                </ul>  
+
+            </div>
+
+            <div id="or-sign">- - - - - - - - - - - - - OR - - - - - - - - - - - - -</div>
+
+
+                            <div class="oe-login-register">
+                    <a href="/london-tango-network/register.html">
+                        Create an account</a>
+                </div>
+                    </form>
+    </div>
+</div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    </div>
+                                                <div id="rt-transition" class="rt-hidden">
+                    <div id="rt-mainbody-surround">
+                                                                        
+
+          
+<div id="rt-main" class="mb12">
+                <div class="rt-container">
+                    <div class="rt-grid-12 ">
+                                                <div id="rt-content-top">
+                            <div class="rt-grid-4 rt-alpha">
+               <div class="rt-block box1 grey home">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">TODAY'S EVENTS</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		<div class='jeventslatest jev_purple'><a class="jevdateicon jevdateiconmod" href="/tango-london-event-listing/eventdetail/2746/13|14|15/beginners-class-at-pavadita.html" title="Beginners Class at Pavadita"><span class="jevdateicon1">29</span><span class="jevdateicon2">Jun</span></a>
+<div class="jeviconnotdate" style="border-color:#009900;"><span class="mod_events_latest_content"><a href="/tango-london-event-listing/eventdetail/2746/13|14|15/beginners-class-at-pavadita.html"  target="_top" >Beginners Class at Pavadita</a></span><br />
+<span class="mod_events_latest_date">Sun Jun 29 @ 6:30AM</span> - <span class="mod_events_latest_date">07:30PM</span></div> <div class='jev_clear' ></div><a class="jevdateicon jevdateiconmod" href="/tango-london-event-listing/eventdetail/3057/13|14|15/improvers-intermediate-class-at-pavadita.html" title="Improvers/Intermediate Class at Pavadita"><span class="jevdateicon1">29</span><span class="jevdateicon2">Jun</span></a>
+<div class="jeviconnotdate" style="border-color:#009900;"><span class="mod_events_latest_content"><a href="/tango-london-event-listing/eventdetail/3057/13|14|15/improvers-intermediate-class-at-pavadita.html"  target="_top" >Improvers/Intermediate Class at Pav...</a></span><br />
+<span class="mod_events_latest_date">Sun Jun 29 @ 7:30AM</span> - <span class="mod_events_latest_date">08:30PM</span></div> <div class='jev_clear' ></div><a class="jevdateicon jevdateiconmod" href="/tango-london-event-listing/eventdetail/10201/13|14|15/la-mariposa-tango.html" title="La Mariposa Tango"><span class="jevdateicon1">29</span><span class="jevdateicon2">Jun</span></a>
+<div class="jeviconnotdate" style="border-color:#FF0000;"><span class="mod_events_latest_content"><a href="/tango-london-event-listing/eventdetail/10201/13|14|15/la-mariposa-tango.html"  target="_top" >La Mariposa Tango</a></span><br />
+<span class="mod_events_latest_date">Sun Jun 29 @ 2:00PM</span> - <span class="mod_events_latest_date">07:30PM</span></div> <div class='jev_clear' ></div><a class="jevdateicon jevdateiconmod" href="/tango-london-event-listing/eventdetail/2433/13|14|15/tango-etnia-milonga.html" title="Tango Etnia Milonga"><span class="jevdateicon1">29</span><span class="jevdateicon2">Jun</span></a>
+<div class="jeviconnotdate" style="border-color:#FF0000;"><span class="mod_events_latest_content"><a href="/tango-london-event-listing/eventdetail/2433/13|14|15/tango-etnia-milonga.html"  target="_top" >Tango Etnia Milonga</a></span><br />
+<span class="mod_events_latest_date">Sun Jun 29 @ 6:00PM</span> - <span class="mod_events_latest_date">11:00PM</span></div> <div class='jev_clear' ></div><a class="jevdateicon jevdateiconmod" href="/tango-london-event-listing/eventdetail/8261/13|14|15/maria-solero-at-south-bank.html" title="Maria Solero at South Bank"><span class="jevdateicon1">30</span><span class="jevdateicon2">Jun</span></a>
+<div class="jeviconnotdate" style="border-color:#009900;"><span class="mod_events_latest_content"><a href="/tango-london-event-listing/eventdetail/8261/13|14|15/maria-solero-at-south-bank.html"  target="_top" >Maria Solero at South Bank</a></span><br />
+<span class="mod_events_latest_date">Mon Jun 30 @ 6:30PM</span> - <span class="mod_events_latest_date">08:45PM</span></div> <div class='jev_clear' ></div><a class="jevdateicon jevdateiconmod" href="/tango-london-event-listing/eventdetail/3528/13|14|15/dome-zero-hour-tango-level-ii.html" title="Dome Zero hour - Tango Level II"><span class="jevdateicon1">30</span><span class="jevdateicon2">Jun</span></a>
+<div class="jeviconnotdate" style="border-color:#009900;"><span class="mod_events_latest_content"><a href="/tango-london-event-listing/eventdetail/3528/13|14|15/dome-zero-hour-tango-level-ii.html"  target="_top" >Dome Zero hour - Tango Level II</a></span><br />
+<span class="mod_events_latest_date">Mon Jun 30 @ 7:30PM</span> - <span class="mod_events_latest_date">08:30PM</span></div> <div class='jev_clear' ></div></div>	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-4">
+               <div class="rt-block box1 grey home">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">LATEST MILONGAS</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		
+<div class="jr-module-slider jrModuleSlider jrSliderSinglePage" data-options='{"module_id":"159","columns":"1","orientation":"horizontal","slideshow":"0","slideshow_interval":"6","nav_position":"bottom","page_count":1}'>
+
+        <div class="jrModuleItems horizontal">
+
+        
+            <div class="jr-results jrResults jrModuleContainer jrListingsModule">
+
+                
+                    
+                    
+                    <div class="jrModuleItem jrLastItem" style="width: 98.571428571%; padding-right: 1.428571429%;">
+
+                        
+                        
+                        
+                        
+                            <!-- Listing Thumbnail -->
+                            <div class="jrModuleItemThumbnail">
+
+                                <a href="/milongas-venues-tango-argentine-london/80-hammersmith-assembly-hall.html" ><img src="http://www.tango-social.com/media/reviews/photos/thumbnail/100x60c/19/e7/ec/80-la-mariposa-tango-the-excelsior-club-73-1399974838.jpg"  border="0"  alt="Milonga and classes at la mariposa"  title="Milonga and classes at la mariposa"  class="jrMediaPhoto"  style="width: 99px; height:60px;"  /></a>
+                                
+                            </div>
+
+                        
+                        <div class="jrModuleItemContent">
+
+                            <!-- Listing Title -->
+                            <div class="jrModuleItemTitle">
+                                <a href="/milongas-venues-tango-argentine-london/80-hammersmith-assembly-hall.html" >HAMMERSMITH ASSEMBLY HALL</a>                            </div>
+
+                            <div class="jrModuleItemCategory">
+                                Milonga                            </div>
+                            
+                            
+
+                            <!-- Summary Text -->
+                            
+                            <!-- Overall Ratings -->
+                            <div class="jrOverallRatings"><div class="jrOverallUser" title="User rating"><span class="jrIconUsers jrRatingLabel"></span><div class="jrRatingStars"><div class="jrRatingStarsUser"><div style="width:0%;">&nbsp;</div></div></div><span class="jrRatingValue">0.0 <span class="rating_count">(<span class="count">0</span>)</span></span></div></div>
+                        </div>
+
+                    </div>
+
+                    
+                        <div class="jrDivider"></div>
+
+                        
+    
+                    
+                    
+                    <div class="jrModuleItem jrLastItem" style="width: 98.571428571%; padding-right: 1.428571429%;">
+
+                        
+                        
+                        
+                        
+                            <!-- Listing Thumbnail -->
+                            <div class="jrModuleItemThumbnail">
+
+                                <a href="/milongas-venues-tango-argentine-london/79-cambria-pub.html" ><img src="http://www.tango-social.com/media/reviews/photos/thumbnail/100x60c/29/1b/6a/79-the-cambria-21-1394366844.jpg"  border="0"  alt="cambria pub"  title="cambria pub"  class="jrMediaPhoto"  style="width: 100px; height:60px;"  /></a>
+                                
+                            </div>
+
+                        
+                        <div class="jrModuleItemContent">
+
+                            <!-- Listing Title -->
+                            <div class="jrModuleItemTitle">
+                                <a href="/milongas-venues-tango-argentine-london/79-cambria-pub.html" >The Cambria</a>                            </div>
+
+                            <div class="jrModuleItemCategory">
+                                                            </div>
+                            
+                            
+
+                            <!-- Summary Text -->
+                            
+                            <!-- Overall Ratings -->
+                            <div class="jrOverallRatings"><div class="jrOverallUser" title="User rating"><span class="jrIconUsers jrRatingLabel"></span><div class="jrRatingStars"><div class="jrRatingStarsUser"><div style="width:0%;">&nbsp;</div></div></div><span class="jrRatingValue">0.0 <span class="rating_count">(<span class="count">0</span>)</span></span></div></div>
+                        </div>
+
+                    </div>
+
+                    
+                        <div class="jrDivider"></div>
+
+                        
+    
+                    
+                    
+                    <div class="jrModuleItem jrLastItem" style="width: 98.571428571%; padding-right: 1.428571429%;">
+
+                        
+                        
+                        
+                        
+                            <!-- Listing Thumbnail -->
+                            <div class="jrModuleItemThumbnail">
+
+                                <a href="/milongas-venues-tango-argentine-london/78-the-two-brewers-queer-tango.html" ><img src="http://www.tango-social.com/media/reviews/photos/thumbnail/100x60c/2d/e4/df/78-the-two-brewers-queer-tango-london-3-1391794027.jpg"  border="0"  alt=""  title=""  class="jrMediaPhoto"  style="width: 100px; height:60px;"  /></a>
+                                
+                            </div>
+
+                        
+                        <div class="jrModuleItemContent">
+
+                            <!-- Listing Title -->
+                            <div class="jrModuleItemTitle">
+                                <a href="/milongas-venues-tango-argentine-london/78-the-two-brewers-queer-tango.html" >The Two Brewers - Queer tango lo...</a>                            </div>
+
+                            <div class="jrModuleItemCategory">
+                                <ul class="jrFieldValueList"><li>Classes</li><li>Milonga</li><li>Practica</li></ul>                            </div>
+                            
+                            
+
+                            <!-- Summary Text -->
+                            
+                            <!-- Overall Ratings -->
+                            <div class="jrOverallRatings"><div class="jrOverallUser" title="User rating"><span class="jrIconUsers jrRatingLabel"></span><div class="jrRatingStars"><div class="jrRatingStarsUser"><div style="width:0%;">&nbsp;</div></div></div><span class="jrRatingValue">0.0 <span class="rating_count">(<span class="count">0</span>)</span></span></div></div>
+                        </div>
+
+                    </div>
+
+                    
+                        <div class="jrDivider"></div>
+
+                        
+    
+                    
+                    
+                    <div class="jrModuleItem jrLastItem" style="width: 98.571428571%; padding-right: 1.428571429%;">
+
+                        
+                        
+                        
+                        
+                            <!-- Listing Thumbnail -->
+                            <div class="jrModuleItemThumbnail">
+
+                                <a href="/milongas-venues-tango-argentine-london/77-dragon-hall-trust.html" ><img src="http://www.tango-social.com/media/reviews/photos/thumbnail/100x60c/18/2b/55/77-covent-garden-dragon-hall-73-1386153970.jpg"  border="0"  alt="Dragon Hall in Covent Garden"  title="Dragon Hall in Covent Garden"  class="jrMediaPhoto"  style="width: 100px; height:60px;"  /></a>
+                                
+                            </div>
+
+                        
+                        <div class="jrModuleItemContent">
+
+                            <!-- Listing Title -->
+                            <div class="jrModuleItemTitle">
+                                <a href="/milongas-venues-tango-argentine-london/77-dragon-hall-trust.html" >Covent Garden Dragon Hall</a>                            </div>
+
+                            <div class="jrModuleItemCategory">
+                                Milonga                            </div>
+                            
+                            
+
+                            <!-- Summary Text -->
+                            
+                            <!-- Overall Ratings -->
+                            <div class="jrOverallRatings"><div class="jrOverallUser" title="User rating"><span class="jrIconUsers jrRatingLabel"></span><div class="jrRatingStars"><div class="jrRatingStarsUser"><div style="width:0%;">&nbsp;</div></div></div><span class="jrRatingValue">0.0 <span class="rating_count">(<span class="count">0</span>)</span></span></div></div>
+                        </div>
+
+                    </div>
+
+                    
+                        <div class="jrDivider"></div>
+
+                        
+    
+                    
+                    
+                    <div class="jrModuleItem jrLastItem" style="width: 98.571428571%; padding-right: 1.428571429%;">
+
+                        
+                        
+                        
+                        
+                            <!-- Listing Thumbnail -->
+                            <div class="jrModuleItemThumbnail">
+
+                                <a href="/milongas-venues-tango-argentine-london/76-the-law-society.html" ><img src="http://www.tango-social.com/media/reviews/photos/thumbnail/100x60c/ee/45/c4/76-the-law-society-42-1378383543.jpg"  border="0"  alt=""  title=""  class="jrMediaPhoto"  style="width: 99px; height:60px;"  /></a>
+                                
+                            </div>
+
+                        
+                        <div class="jrModuleItemContent">
+
+                            <!-- Listing Title -->
+                            <div class="jrModuleItemTitle">
+                                <a href="/milongas-venues-tango-argentine-london/76-the-law-society.html" >The Law Society</a>                            </div>
+
+                            <div class="jrModuleItemCategory">
+                                <ul class="jrFieldValueList"><li>Classes</li><li>Practica</li></ul>                            </div>
+                            
+                            
+
+                            <!-- Summary Text -->
+                            
+                            <!-- Overall Ratings -->
+                            <div class="jrOverallRatings"><div class="jrOverallUser" title="User rating"><span class="jrIconUsers jrRatingLabel"></span><div class="jrRatingStars"><div class="jrRatingStarsUser"><div style="width:0%;">&nbsp;</div></div></div><span class="jrRatingValue">0.0 <span class="rating_count">(<span class="count">0</span>)</span></span></div></div>
+                        </div>
+
+                    </div>
+
+                    
+    
+            </div>
+
+
+    </div>
+</div>
+<div class="jrClear"></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-4 rt-omega">
+               <div class="rt-block box1 pink home shop">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">The Unique Tango Poster</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		
+
+<div class="custombox1 pink home shop"  >
+	<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/poster-tango-history-s.jpg" alt="poster-tango-history-s.jpg" width="174" height="248" />
+</p>
+<p style="text-align: center;">The poster features over 900 musicians who make up the history of tango, from its origins back in 1870 up to the present day.</p>
+<p><a class="k2ReadMore" href="/tango-london-news-blog/73-tango-poster-london.html">More Details</a>
+</p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick" /><input type="hidden" name="hosted_button_id" value="SGUYQ7WTL6ZF4" />
+	<table style="margin-left: auto; margin-right: auto;">
+		<tbody>
+			<tr>
+				<td><input type="hidden" name="on0" value="Prices including post" />Prices including post</td>
+			</tr>
+			<tr>
+				<td><select name="os0"><option value="Collect from our office">Collect from our office £20.00 GBP</option><option value="2st Class Royal Mail">2st Class Royal Mail £23.00 GBP</option><option value="1st Class Royal Mail">1st Class Royal Mail £25.00 GBP</option></select>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div style="display: table; margin-left: auto; margin-right: auto;"><input type="hidden" name="currency_code" value="GBP" /><input type="image" name="submit" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" alt="PayPal – The safer, easier way to pay online." /><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" alt="" width="1" height="1" border="0" />
+	</div>
+</form></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+                        </div>
+                                                						<div class="rt-block">
+	                        <div id="rt-mainbody">
+								<div class="component-content">
+	                            	<div class="item-pageoe_blank">
+
+
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+	
+</div>
+
+								</div>
+	                        </div>
+						</div>
+                                                                    </div>
+                                        <div class="clear"></div>
+                </div>
+            </div>
+
+
+
+                                                    <div id="rt-mainbottom">
+                                <div class="rt-container">
+    <div class="rt-grid-12 rt-alpha rt-omega">
+               <div class="rt-block box1 pink teachers">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">LATEST TEACHERS</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		<div class="box1 pink teachers">
+			<div class="LatestTeachersHome">	
+                    
+			<ul>
+			<li><a class="oe-social-user" href="/london-tango-network/claire-loewe/profile.html"><figure class="tint" title="Claire Loewe"><img src="http://www.tango-social.com/images/avatar/06970848c8f3f2ca6257e246.jpg" /></figure></a></li><li><a class="oe-social-user" href="/london-tango-network/marek/profile.html"><figure class="tint" title="Marek"><img src="http://www.tango-social.com/images/avatar/099b6c95b3a6bd721b07b55d.jpg" /></figure></a></li><li><a class="oe-social-user" href="/london-tango-network/facundo/profile.html"><figure class="tint" title="Facundo Menendez"><img src="http://www.tango-social.com/components/com_community/assets/user.png" /></figure></a></li><li><a class="oe-social-user" href="/london-tango-network/maria-solero/profile.html"><figure class="tint" title="Maria A. Solero"><img src="http://www.tango-social.com/images/avatar/9b3a4dbf07091b91258efe59.jpg" /></figure></a></li><li><a class="oe-social-user" href="/london-tango-network/pablo-rodriguez/profile.html"><figure class="tint" title="Pablo Rodriguez"><img src="http://www.tango-social.com/images/avatar/2959e163baa325ec1e8bee39.jpg" /></figure></a></li>			</ul>
+		</div>
+		<div class="show-all">
+			<a style='float:right;' href='/london-tango-network/search/browse.html?sort=latest'>show all teachers <i class="icon-double-angle-right"></i></a>
+		</div>
+		<div style='clear:both;'></div>
+</div>	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block box2 home post  visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                			<div class="nspMain nspFs100" id="nsp-nsp_202" style="width:100%;" data-direction="ltr">
+					<div class="nspArts bottom" style="width:100%;">
+								
+				<div class="nspArtScroll1">
+					<div class="nspArtScroll2 nspPages1">
+																	<div class="nspArtPage nspCol1">
+																				<div class="nspArt nspCol4" style="padding:0 20px 20px 0;clear:both;">
+								<a href="/tango-london-news-blog/78-carablanca-closed-on-6-13-june-reopen-20-june.html" class="nspImageWrapper tleft fleft gkResponsive" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft gkResponsive" src="http://www.tango-social.com/modules/mod_news_pro_gk4/cache/k2.items.cache.13f34e2b533e12c6166f88368dcd8c07_Lnsp_202.jpg" alt="Carablanca CLOSED on 6, 13 June.  reopen 20 June"   /></a><span class="nspHeader tleft fnone"><a href="/tango-london-news-blog/78-carablanca-closed-on-6-13-june-reopen-20-june.html" title="Carablanca CLOSED on 6, 13 June.  reopen 20 June">Carablanca CLOSED on 6, 13&hellip;</a></span><p class="nspInfo  tleft fnone">Category:  News </p><p class="nspText tleft fleft">Carablanca CLOSED on 6, 13 June. &nbsp;reopen 20 June&nbsp;
+Dear friends remember that this friday 13 of June...</p><p class="nspInfo  tleft fleft"></p><a class="readon  fleft" href="/tango-london-news-blog/78-carablanca-closed-on-6-13-june-reopen-20-june.html">more <i class="icon-double-angle-right"></i></a>							</div>
+																															<div class="nspArt nspCol4" style="padding:0 20px 20px 0;">
+								<a href="/tango-london-news-blog/77-london-festival-championship-2014.html" class="nspImageWrapper tleft fleft gkResponsive" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft gkResponsive" src="http://www.tango-social.com/modules/mod_news_pro_gk4/cache/k2.items.cache.d48ed900e79fa9547169c26138b4cd8d_Lnsp_202.jpg" alt="The UK Festival &amp; Championship 2014"   /></a><span class="nspHeader tleft fnone"><a href="/tango-london-news-blog/77-london-festival-championship-2014.html" title="The UK Festival &amp; Championship 2014">The UK Festival &amp; Cham&hellip;</a></span><p class="nspInfo  tleft fnone">Category:  Featured Events </p><p class="nspText tleft fleft">June will bring some exiting news to the London tango scene. &nbsp;
+The UK Championship will be runing...</p><p class="nspInfo  tleft fleft"></p><a class="readon  fleft" href="/tango-london-news-blog/77-london-festival-championship-2014.html">more <i class="icon-double-angle-right"></i></a>							</div>
+																															<div class="nspArt nspCol4" style="padding:0 20px 20px 0;">
+								<a href="/tango-london-news-blog/76-the-light-temple-class.html" class="nspImageWrapper tleft fleft gkResponsive" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft gkResponsive" src="http://www.tango-social.com/modules/mod_news_pro_gk4/cache/k2.items.cache.924e149af069b8ea323a809fbb1171d4_Lnsp_202.jpg" alt="Workshop at the light temple"   /></a><span class="nspHeader tleft fnone"><a href="/tango-london-news-blog/76-the-light-temple-class.html" title="Workshop at the light temple">Workshop at the light temp&hellip;</a></span><p class="nspInfo  tleft fnone">Category:  News </p><p class="nspText tleft fleft">This saturday 24th of may will be a&nbsp;Workshop By Clarissa Sanchez &amp; John Erban at The Light...</p><p class="nspInfo  tleft fleft"></p><a class="readon  fleft" href="/tango-london-news-blog/76-the-light-temple-class.html">more <i class="icon-double-angle-right"></i></a>							</div>
+																															<div class="nspArt nspCol4" style="padding:0 20px 20px 0;">
+								<a href="/tango-london-news-blog/73-tango-poster-london.html" class="nspImageWrapper tleft fleft gkResponsive" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft gkResponsive" src="http://www.tango-social.com/modules/mod_news_pro_gk4/cache/k2.items.cache.245effadf41c6129f4fe7accc564ef86_Lnsp_202.jpg" alt="The Unique Tango Poster"   /></a><span class="nspHeader tleft fnone"><a href="/tango-london-news-blog/73-tango-poster-london.html" title="The Unique Tango Poster">The Unique Tango Poster</a></span><p class="nspInfo  tleft fnone">Category:  History and Origins </p><p class="nspText tleft fleft">&nbsp;
+• Poster measures: (70 x 100cm / 27,559 x 39,37 Inches )
+• 950 illustrious names that make...</p><p class="nspInfo  tleft fleft"></p><a class="readon  fleft" href="/tango-london-news-blog/73-tango-poster-london.html">more <i class="icon-double-angle-right"></i></a>							</div>
+												</div>
+																</div>
+				</div>	
+			</div>
+					</div>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_202"] = {
+	"animation_speed": 400,
+	"animation_interval": 5000,
+	"animation_function": Fx.Transitions.Expo.easeIn,
+	"news_column": 4,
+	"news_rows": 1,
+	"links_columns_amount": 1,
+	"links_amount": 3,
+	"counter_text": '<strong>Page:</strong>'
+};
+//]]>
+</script>		                	</div>
+                	</div>
+           </div>
+	
+</div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                                                    <div id="rt-extension">
+                                <div class="rt-container">
+    <div class="rt-grid-3 rt-alpha">
+               <div class="rt-block box1 grey latest-forum hidden-tablet">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">FORUM POSTS</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		<div class="box1 grey latest-forum hidden-tablet klatest ">
+	<ul class="klatest-items">
+					<li class="klatest-item">
+<ul class="klatest-itemdetails">
+
+<li class="klatest-author"><a class="kwho-admin" href="/london-tango-network/eduardo-silva/profile.html" title="View eduardo's Profile" rel="nofollow">eduardo</a></li>
+
+
+    
+    
+    <li class="klatest-preview-content">Hi Alessia,
+
+Eduardo at carablanca told me that it is one of the most amazing...</li>
+<li class="klatest-cat">In <a href="/forum-tango-london/community.html" rel="follow" title="View Category 'Community'">Community</a> / <a href="/forum-tango-london/tango-festivals.html" rel="follow" title="View Category 'Tango festivals'">Tango festivals</a></li>
+</ul>
+</li>
+<li class="klatest-item">
+<ul class="klatest-itemdetails">
+
+<li class="klatest-author"><a class="kwho-admin" href="/london-tango-network/964-alessia/profile.html" title="View alessia's Profile" rel="nofollow">alessia</a></li>
+
+
+    
+    
+    <li class="klatest-preview-content">When: 17-25 August 2013
+Where: Tarbes, France
+Website for registration: ...</li>
+<li class="klatest-cat">In <a href="/forum-tango-london/community.html" rel="follow" title="View Category 'Community'">Community</a> / <a href="/forum-tango-london/tango-festivals.html" rel="follow" title="View Category 'Tango festivals'">Tango festivals</a></li>
+</ul>
+</li>
+			</ul>
+	</div>	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block  news  social visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		<div class="acymailing_module news  social visible-desktop" id="acymailing_module_formAcymailing99431">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing99431"  >
+		<form id="formAcymailing99431" action="/" onsubmit="return submitacymailingform('optin','formAcymailing99431')" method="post" name="formAcymailing99431"  >
+		<div class="acymailing_module_form" >
+									<table class="acymailing_form">
+				<tr>
+												<td class="acyfield_email">
+																<input id="user_email_formAcymailing99431" placeholder="Subscribe to our Newsletter" class="inputbox" type="text" name="user[email]" style="width:80%" value="" />
+							</td> 
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+					<td  class="acysubbuttons">
+												<input class="button subbutton btn btn-primary" type="submit" value="ok" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing99431'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
+											</td>
+				</tr>
+			</table>
+						<input type="hidden" name="ajax" value="0"/>
+			<input type="hidden" name="ctrl" value="sub"/>
+			<input type="hidden" name="task" value="notask"/>
+			<input type="hidden" name="redirect" value="http%3A%2F%2Fwww.tango-social.com%2F"/>
+			<input type="hidden" name="redirectunsub" value="http%3A%2F%2Fwww.tango-social.com%2F"/>
+			<input type="hidden" name="option" value="com_acymailing"/>
+						<input type="hidden" name="hiddenlists" value="1"/>
+			<input type="hidden" name="acyformname" value="formAcymailing99431" />
+									</div>
+		</form>
+	</div>
+	</div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-9 rt-omega">
+               <div class="rt-block -js-latest-photos box1 pink home hidden-phone">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">TANGO SOCIAL LONDON LATEST PHOTOS</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		
+<style>
+</style>
+
+<div class="moduletable-js-latest-photos box1 pink home hidden-phone">
+
+    <ul style="list-style: none; padding:0; text-align:center; margin:0;">
+        	
+                <li style="display:inline-block;">
+                    <div>
+                                                                                        <a href="/component/community/822-teacher-5/photos/photo.html?albumid=10&amp;Itemid=10#photoid=79" rel="nofollow">								 
+                                                                                                    	
+                                                                        <img style="padding:1px; background:#FFFFFF; border:1px solid #DDDDDD" src="/images/photos/822/10/thumb_82fb65f81bc8475496d4aa8f.jpg" width="145" class="avatar jomTips" title="tango-social-london_09::Uploaded by photographer" alt="tango-social-london_09" />
+                                </a>
+                                <div class="extra">
+                                                                        <div style="clear:both"></div>
+                                                                    </div>
+                                </div>
+                                </li>
+                            	
+                <li style="display:inline-block;">
+                    <div>
+                                                                                        <a href="/component/community/822-teacher-5/photos/photo.html?albumid=10&amp;Itemid=10#photoid=83" rel="nofollow">								 
+                                                                                                    	
+                                                                        <img style="padding:1px; background:#FFFFFF; border:1px solid #DDDDDD" src="/images/photos/822/10/thumb_3d86d3723b76355826e2599d.jpg" width="145" class="avatar jomTips" title="tango-social-london_13::Uploaded by photographer" alt="tango-social-london_13" />
+                                </a>
+                                <div class="extra">
+                                                                        <div style="clear:both"></div>
+                                                                    </div>
+                                </div>
+                                </li>
+                            	
+                <li style="display:inline-block;">
+                    <div>
+                                                                                        <a href="/component/community/822-teacher-5/photos/photo.html?albumid=10&amp;Itemid=10#photoid=86" rel="nofollow">								 
+                                                                                                    	
+                                                                        <img style="padding:1px; background:#FFFFFF; border:1px solid #DDDDDD" src="/images/photos/822/10/thumb_8d4e03b5e249169249dbba65.jpg" width="145" class="avatar jomTips" title="tango-social-london_16::Uploaded by photographer" alt="tango-social-london_16" />
+                                </a>
+                                <div class="extra">
+                                                                        <div style="clear:both"></div>
+                                                                    </div>
+                                </div>
+                                </li>
+                            	
+                <li style="display:inline-block;">
+                    <div>
+                                                                                        <a href="/component/community/822-teacher-5/photos/photo.html?albumid=10&amp;Itemid=10#photoid=75" rel="nofollow">								 
+                                                                                                    	
+                                                                        <img style="padding:1px; background:#FFFFFF; border:1px solid #DDDDDD" src="/images/photos/822/10/thumb_8372ce3395b332cfcd4dbf09.jpg" width="145" class="avatar jomTips" title="tango-social-london_05::Uploaded by photographer" alt="tango-social-london_05" />
+                                </a>
+                                <div class="extra">
+                                                                        <div style="clear:both"></div>
+                                                                    </div>
+                                </div>
+                                </li>
+                            	
+                <li style="display:inline-block;">
+                    <div>
+                                                                                        <a href="/component/community/822-teacher-5/photos/photo.html?albumid=10&amp;Itemid=10#photoid=73" rel="nofollow">								 
+                                                                                                    	
+                                                                        <img style="padding:1px; background:#FFFFFF; border:1px solid #DDDDDD" src="/images/photos/822/10/thumb_fe2dc441de8fbca0fbdb557a.jpg" width="145" class="avatar jomTips" title="tango-social-london_03::Uploaded by photographer" alt="tango-social-london_03" />
+                                </a>
+                                <div class="extra">
+                                                                        <div style="clear:both"></div>
+                                                                    </div>
+                                </div>
+                                </li>
+                            	
+                <li style="display:inline-block;">
+                    <div>
+                                                                                        <a href="/component/community/822-teacher-5/photos/photo.html?albumid=10&amp;Itemid=10#photoid=82" rel="nofollow">								 
+                                                                                                    	
+                                                                        <img style="padding:1px; background:#FFFFFF; border:1px solid #DDDDDD" src="/images/photos/822/10/thumb_6b94480bc24926206a5424f6.jpg" width="145" class="avatar jomTips" title="tango-social-london_12::Uploaded by photographer" alt="tango-social-london_12" />
+                                </a>
+                                <div class="extra">
+                                                                        <div style="clear:both"></div>
+                                                                    </div>
+                                </div>
+                                </li>
+                            	
+                <li style="display:inline-block;">
+                    <div>
+                                                                                        <a href="/component/community/822-teacher-5/photos/photo.html?albumid=10&amp;Itemid=10#photoid=87" rel="nofollow">								 
+                                                                                                    	
+                                                                        <img style="padding:1px; background:#FFFFFF; border:1px solid #DDDDDD" src="/images/photos/822/10/thumb_65984ca79ca0e4fb2abda2a3.jpg" width="145" class="avatar jomTips" title="tango-social-london_17::Uploaded by photographer" alt="tango-social-london_17" />
+                                </a>
+                                <div class="extra">
+                                                                        <div style="clear:both"></div>
+                                                                    </div>
+                                </div>
+                                </li>
+                            	
+                <li style="display:inline-block;">
+                    <div>
+                                                                                        <a href="/component/community/822-teacher-5/photos/photo.html?albumid=10&amp;Itemid=10#photoid=74" rel="nofollow">								 
+                                                                                                    	
+                                                                        <img style="padding:1px; background:#FFFFFF; border:1px solid #DDDDDD" src="/images/photos/822/10/thumb_eb2dc334501f52f146d139d2.jpg" width="145" class="avatar jomTips" title="tango-social-london_04::Uploaded by photographer" alt="tango-social-london_04" />
+                                </a>
+                                <div class="extra">
+                                                                        <div style="clear:both"></div>
+                                                                    </div>
+                                </div>
+                                </li>
+                            	
+                <li style="display:inline-block;">
+                    <div>
+                                                                                        <a href="/component/community/822-teacher-5/photos/photo.html?albumid=10&amp;Itemid=10#photoid=81" rel="nofollow">								 
+                                                                                                    	
+                                                                        <img style="padding:1px; background:#FFFFFF; border:1px solid #DDDDDD" src="/images/photos/822/10/thumb_1cadd07239d644f6c2c41f8f.jpg" width="145" class="avatar jomTips" title="tango-social-london_11::Uploaded by photographer" alt="tango-social-london_11" />
+                                </a>
+                                <div class="extra">
+                                                                        <div style="clear:both"></div>
+                                                                    </div>
+                                </div>
+                                </li>
+                            	
+                <li style="display:inline-block;">
+                    <div>
+                                                                                        <a href="/component/community/822-teacher-5/photos/photo.html?albumid=10&amp;Itemid=10#photoid=78" rel="nofollow">								 
+                                                                                                    	
+                                                                        <img style="padding:1px; background:#FFFFFF; border:1px solid #DDDDDD" src="/images/photos/822/10/thumb_5172109ae18c5187572053c1.jpg" width="145" class="avatar jomTips" title="tango-social-london_08::Uploaded by photographer" alt="tango-social-london_08" />
+                                </a>
+                                <div class="extra">
+                                                                        <div style="clear:both"></div>
+                                                                    </div>
+                                </div>
+                                </li>
+                            
+                        
+                                                                                </ul>
+
+                                            <div class="show_all">
+                                                <a title="show all" href="/london-tango-network/photos.html">
+                                                    <span>show all <i class="icon-double-angle-right"></i></span>
+                                                </a>
+                                            </div>
+
+                                        </div>		
+	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block  social visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom social visible-desktop"  >
+	<div class="jf_col grid_4"><a href="https:/twitter.com/tango_social" target="_blank"><img src="/images/oe/tango-social-twitter.png" alt="tango-social-twitter" width="262" height="60" /></a></div>
+<div class="jf_col grid_4"><a href="https://www.facebook.com/tangosocialinlondon" target="_blank"><img src="/images/oe/tango-social-facebook.png" alt="tango-social-facebook" width="262" height="60" /></a></div>
+<div class="jf_col grid_4 last-column"><a href="http://www.youtube.com/user/TangoSocialLondon" target="_blank"><img src="/images/oe/tango-social-london-youtube.png" alt="tango-social-london-youtube" width="262" height="60" /></a></div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+            <footer id="rt-footer-surround">
+                <div id="bottom-shadow-up"></div>
+                        <div id="rt-footer">
+                        <div class="rt-container">
+        <div class="rt-grid-4 rt-alpha">
+               <div class="rt-block box1 pink footer1">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">Early Access BETA</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		
+
+<div class="custombox1 pink footer1"  >
+	<h2><span style="font-size: 12pt;">We’re in Early Access Beta</span></h2>
+<p><span style="font-size: 12pt;" data-mce-mark="1">We invite the Tango lovers an early access to create an account.</span></p>
+<p><span style="font-size: 12pt;" data-mce-mark="1">Dancer Account: you can start to create your profile and participate</span></p>
+<p><span style="font-size: 12pt;">Teacher Accounts: <span style="font-size: 16px;">you can start to create your profile</span>&nbsp;( need confirmation*)</span></p>
+<p><span style="font-size: 12pt;">*Check your email we would like to notify you when you’ll be able to edit your Teacher account.&nbsp;</span></p></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-4">
+               <div class="rt-block box1 pink footer2">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">Promote Tango</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		
+
+<div class="custombox1 pink footer2"  >
+	<h2><span style="font-size: 12pt;">We want to hear of you!</span></h2>
+<p><span data-mce-mark="1" style="font-size: 12pt;">Do you want to promote a milonga a class or a event?</span></p>
+<p><span style="font-size: 12pt;" data-mce-mark="1">You can start creating a profile and participate and contact us to promote your tango related service.</span></p>
+<p><span style="font-size: 12pt;" data-mce-mark="1">Teachers, do you want to promote your courses and events?</span></p>
+<p><span style="font-size: 12pt;" data-mce-mark="1">Contact us to 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy57731 = '&#105;nf&#111;' + '&#64;';
+ addy57731 = addy57731 + 't&#97;ng&#111;-s&#111;c&#105;&#97;l' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy57731 + '\'>');
+ document.write(addy57731);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></span></p></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-4 rt-omega">
+               <div class="rt-block box1 pink footer3 hidden-phone">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">Contact Info</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		
+
+<div class="custombox1 pink footer3 hidden-phone"  >
+	<div class="jf_contact_bottominfo_mod"><img id="contact-map" src="/images/oe/tango-social-london-map.png" width="100%" height="100%" alt="tango-social-london-map" /><br />
+<ul class="bottom_social">
+<li class="twitter"><a class="jf-tipsy-s" href="https://twitter.com/tango_social" target="_blank" title="twitter">&nbsp;</a></li>
+<li class="facebook"><a class="jf-tipsy-s" href="https://www.facebook.com/tangosocialinlondon" target="_blank" title="facebook">&nbsp;</a></li>
+<li class="youtube"><a class="jf-tipsy-s" href="http://www.youtube.com/user/TangoSocialLondon" target="_blank" title="youtube">&nbsp;</a></li>
+</ul>
+</div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                        <div id="rt-copyright">
+                        <div class="rt-container">
+        <div class="rt-grid-12 rt-alpha rt-omega">
+    	    <div class="rt-block jf-branding"><a href="http://www.joomforest.com/" target="_blank" class="powered-by"></a></div>
+		
+           <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+<ul class="menu-nav-foot" id="menu">
+<li class="item-343"><a href="/cookies-policy.html" >Cookies Policy</a></li><li class="item-353"><span class="separator">|</span>
+</li><li class="item-344"><a href="/website-disclaimer.html" >Website disclaimer</a></li><li class="item-347"><span class="separator">|</span>
+</li><li class="item-346"><a href="/terms-and-condition.html" >Terms and Condition</a></li><li class="item-348"><span class="separator">|</span>
+</li><li class="item-345"><a href="/privacy-policy.html" >Privacy Policy</a></li><li class="item-349"><span class="separator">|</span>
+</li><li class="item-342"><a href="/sitemap.html" >Sitemap</a></li></ul>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </footer>
+                    
+        
+                            <div id="jf-scrolltop">
+                	<div class="clear"></div>
+	<div class="jf-scrolltop-block">
+		<a href="#" id="gantry-totop" rel="nofollow"></a>
+	</div>
+	
+                    <div class="clear"></div>
+                </div>
+    
+            
+        
+        
+        
+                <script src="http://www.tango-social.com/templates/jf_social/js/joomforest_jf_social.js" type="text/javascript"></script>
+                    			<script src="http://www.tango-social.com//templates/jf_social/js/jquery.elastislide.js" type="text/javascript"></script>
+			<script type="text/javascript">jQuery('#jf-elastislide-2,#jf-elastislide-1,#jf-elastislide-3,#jf-elastislide-4,#jf-elastislide-5').elastislide({speed:450,easing:'',imageW:140,minItems:6});</script>
+		
+                        <!-- START Mouse Loader -->
+        <canvas id="jf_circleX" width="100" height="100"></canvas>
+        <div id="jf_circlecolor"></div>
+        <!-- END Mouse Loader -->
+            			<script src="http://www.tango-social.com/templates/jf_social/js/jquery.tipsy.js" type="text/javascript"></script>
+		
+
+
+
+
+
+
+        <script>
+            var j = jQuery.noConflict();
+
+            var currentPage = '/';
+
+            switch (currentPage) {
+                case '/':
+                    j('#rt-mainbody').hide();
+                    break;
+                case 'forum':
+                    j(".item213").addClass("active");
+                    break;
+                case 'venues':
+                    j(".item115").addClass("active");
+                    break;
+                case 'teachers':
+                    j(".item270").addClass("active");
+                    j(".item174").removeClass("active");
+                    break;
+                case 'events':
+                    j(".item215").addClass("active");
+                    j(".item115").removeClass("active");
+                    break;
+            }
+        </script>
+
+
+    </body>
+
+
+</html>
